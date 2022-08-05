@@ -1,2 +1,3 @@
-# os-open-zoomstack
-OS Open Zoomstack tiles as static hosted files
+# OS Open Zoomstack hosting
+
+OS Open Zoomstack tiles as static hosted files.
